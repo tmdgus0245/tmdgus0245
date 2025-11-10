@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tmdgus0245
-- 👀 I’m interested in Algorithm, Web developement, AIoT
+- 👀 I’m interested in OpenStack, Web developement, Cloud
 - 🌱 I’m currently learning Web backend
-- 💞️ I’m looking to collaborate on any daekiup
+- 💞️ I’m looking to collaborate on any enterprise
 - 📫 How to reach me instagram: n_seung_hyeon
 - 😄 Pronouns: Potato
 - ⚡ Fun fact: Im hungry
