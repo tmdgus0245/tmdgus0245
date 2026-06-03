@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmdgus0245
-- 👀 I’m interested in OpenStack, Web developement, Cloud
-- 🌱 I’m currently learning Web backend
+- 👀 I’m interested in OpenStack, Web development, App development, Cloud
+- 🌱 I’m currently learning Web/App backend
 - 💞️ I’m looking to collaborate on any enterprise
 - 📫 How to reach me instagram: n_seung_hyeon
 - 😄 Pronouns: Potato
